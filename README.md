@@ -17,41 +17,19 @@ Enjoy getting to know me through my personality assessment!
 
 <h2>Screenshots:</h2>
 
-<p align="center">
-Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://imgur.com/a/1DTlXaI)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Personality Assessment Results 1: <br/>
+![personality test](https://github.com/user-attachments/assets/e3894377-3195-4c0f-8311-fe848954c4cb)
 <br />
-<br />
-Select the disk:  <br/>
-<img src="[https://i.imgur.com/tcTyMUE.png](https://imgur.com/a/1DTlXaI)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+<br></br>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+Personality Assesment Results 2: <br/>
+![personality testt](https://github.com/user-attachments/assets/fe98f5f6-7fa9-4f7f-8dbf-6c37026b3a89)
+
+<br />
+<br></br>
+
+Personality Assessment Summary: <br/>
+![personality testtt](https://github.com/user-attachments/assets/df05703d-0340-4041-8ed6-9a242a5d9618)
+
+<br />
+<br></br>

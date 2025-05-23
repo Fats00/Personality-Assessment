@@ -1,16 +1,19 @@
 <h1>Personality Assessment</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Repository consists of my personal experience using "STAR" techniques and the personality assessment I took through online platforms offering tests. As you scroll down, you will 
+come across my "STAR" breakdown and screenshots serving as evidence of taking the online tests as well as the results I received. 
+Enjoy getting to know me through my personality assessment!
 <br />
 
 
 <h2>Reflection: Star Technique</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-- <b>Diskpart</b>
-- <b>Diskpart</b>
+
+- <b>S – Situation:</b> I took a test as part of getting to know which career aligns with my personality.
+- <b>T – Task:</b> I wanted to understand more about my personality type and how it affects my career choices and teamwork
+- <b>A – Action:</b> I completed the test and discovered I am a natural leader, and enjoys helping others.</b>
+- <b>R – Result:</b> This confirmed that I work best in people-focused careers. It also helped me understand how I can lead group projects more effectively by being more aware of others' needs.</b>
 
 <h2>Screenshots:</h2>
 
